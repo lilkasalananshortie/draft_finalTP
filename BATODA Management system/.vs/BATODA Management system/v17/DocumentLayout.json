@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BATODA Management system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69E7BB0C-93C2-498F-91E7-995FAF4EB7F0}|BATODA Management system\\BATODA Management system.csproj|c:\\users\\admin\\source\\repos\\batoda management system\\batoda management system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69E7BB0C-93C2-498F-91E7-995FAF4EB7F0}|BATODA Management system\\BATODA Management system.csproj|solutionrelative:batoda management system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E7BB0C-93C2-498F-91E7-995FAF4EB7F0}|BATODA Management system\\BATODA Management system.csproj|C:\\Users\\Admin\\source\\repos\\BATODA Management system\\batoda management system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E7BB0C-93C2-498F-91E7-995FAF4EB7F0}|BATODA Management system\\BATODA Management system.csproj|solutionrelative:batoda management system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E7BB0C-93C2-498F-91E7-995FAF4EB7F0}|BATODA Management system\\BATODA Management system.csproj|C:\\Users\\Admin\\source\\repos\\BATODA Management system\\batoda management system\\maindisplayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69E7BB0C-93C2-498F-91E7-995FAF4EB7F0}|BATODA Management system\\BATODA Management system.csproj|solutionrelative:batoda management system\\maindisplayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainDisplayForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BATODA Management system\\BATODA Management system\\MainDisplayForm.cs",
+              "RelativeDocumentMoniker": "BATODA Management system\\MainDisplayForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BATODA Management system\\BATODA Management system\\MainDisplayForm.cs [Design]",
+              "RelativeToolTip": "BATODA Management system\\MainDisplayForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:37:19.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogInForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BATODA Management system\\BATODA Management system\\LogInForm.cs",
+              "RelativeDocumentMoniker": "BATODA Management system\\LogInForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BATODA Management system\\BATODA Management system\\LogInForm.cs",
+              "RelativeToolTip": "BATODA Management system\\LogInForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:21:24.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogInForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BATODA Management system\\BATODA Management system\\LogInForm.cs",
+              "RelativeDocumentMoniker": "BATODA Management system\\LogInForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BATODA Management system\\BATODA Management system\\LogInForm.cs [Design]",
+              "RelativeToolTip": "BATODA Management system\\LogInForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:13:18.622Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

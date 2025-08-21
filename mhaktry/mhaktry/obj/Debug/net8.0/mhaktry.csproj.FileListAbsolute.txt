@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\mhaktry\mhaktry\bin\Debug\net8.0\mhaktry.exe
+C:\Users\Admin\source\repos\mhaktry\mhaktry\bin\Debug\net8.0\mhaktry.deps.json
+C:\Users\Admin\source\repos\mhaktry\mhaktry\bin\Debug\net8.0\mhaktry.runtimeconfig.json
+C:\Users\Admin\source\repos\mhaktry\mhaktry\bin\Debug\net8.0\mhaktry.dll
+C:\Users\Admin\source\repos\mhaktry\mhaktry\bin\Debug\net8.0\mhaktry.pdb
+C:\Users\Admin\source\repos\mhaktry\mhaktry\obj\Debug\net8.0\mhaktry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\mhaktry\mhaktry\obj\Debug\net8.0\mhaktry.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\mhaktry\mhaktry\obj\Debug\net8.0\mhaktry.AssemblyInfo.cs
+C:\Users\Admin\source\repos\mhaktry\mhaktry\obj\Debug\net8.0\mhaktry.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\mhaktry\mhaktry\obj\Debug\net8.0\mhaktry.dll
+C:\Users\Admin\source\repos\mhaktry\mhaktry\obj\Debug\net8.0\refint\mhaktry.dll
+C:\Users\Admin\source\repos\mhaktry\mhaktry\obj\Debug\net8.0\mhaktry.pdb
+C:\Users\Admin\source\repos\mhaktry\mhaktry\obj\Debug\net8.0\mhaktry.genruntimeconfig.cache
+C:\Users\Admin\source\repos\mhaktry\mhaktry\obj\Debug\net8.0\ref\mhaktry.dll

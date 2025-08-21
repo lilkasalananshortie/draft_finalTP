@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\mhakuwhysopogi\mhakuwhysopogi\bin\Debug\net8.0\mhakuwhysopogi.exe
+C:\Users\Admin\source\repos\mhakuwhysopogi\mhakuwhysopogi\bin\Debug\net8.0\mhakuwhysopogi.deps.json
+C:\Users\Admin\source\repos\mhakuwhysopogi\mhakuwhysopogi\bin\Debug\net8.0\mhakuwhysopogi.runtimeconfig.json
+C:\Users\Admin\source\repos\mhakuwhysopogi\mhakuwhysopogi\bin\Debug\net8.0\mhakuwhysopogi.dll
+C:\Users\Admin\source\repos\mhakuwhysopogi\mhakuwhysopogi\bin\Debug\net8.0\mhakuwhysopogi.pdb
+C:\Users\Admin\source\repos\mhakuwhysopogi\mhakuwhysopogi\obj\Debug\net8.0\mhakuwhysopogi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\mhakuwhysopogi\mhakuwhysopogi\obj\Debug\net8.0\mhakuwhysopogi.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\mhakuwhysopogi\mhakuwhysopogi\obj\Debug\net8.0\mhakuwhysopogi.AssemblyInfo.cs
+C:\Users\Admin\source\repos\mhakuwhysopogi\mhakuwhysopogi\obj\Debug\net8.0\mhakuwhysopogi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\mhakuwhysopogi\mhakuwhysopogi\obj\Debug\net8.0\mhakuwhysopogi.dll
+C:\Users\Admin\source\repos\mhakuwhysopogi\mhakuwhysopogi\obj\Debug\net8.0\refint\mhakuwhysopogi.dll
+C:\Users\Admin\source\repos\mhakuwhysopogi\mhakuwhysopogi\obj\Debug\net8.0\mhakuwhysopogi.pdb
+C:\Users\Admin\source\repos\mhakuwhysopogi\mhakuwhysopogi\obj\Debug\net8.0\mhakuwhysopogi.genruntimeconfig.cache
+C:\Users\Admin\source\repos\mhakuwhysopogi\mhakuwhysopogi\obj\Debug\net8.0\ref\mhakuwhysopogi.dll

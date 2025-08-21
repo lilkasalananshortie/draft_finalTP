@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\BATODA Management system\BATODA Management system\bin\Debug\BATODA Management system.exe.config
+C:\Users\Admin\source\repos\BATODA Management system\BATODA Management system\bin\Debug\BATODA Management system.exe
+C:\Users\Admin\source\repos\BATODA Management system\BATODA Management system\bin\Debug\BATODA Management system.pdb
+C:\Users\Admin\source\repos\BATODA Management system\BATODA Management system\obj\Debug\BATODA Management system.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BATODA Management system\BATODA Management system\obj\Debug\BATODA_Management_system.LogInForm.resources
+C:\Users\Admin\source\repos\BATODA Management system\BATODA Management system\obj\Debug\BATODA_Management_system.Properties.Resources.resources
+C:\Users\Admin\source\repos\BATODA Management system\BATODA Management system\obj\Debug\BATODA Management system.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BATODA Management system\BATODA Management system\obj\Debug\BATODA Management system.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BATODA Management system\BATODA Management system\obj\Debug\BATODA Management system.exe
+C:\Users\Admin\source\repos\BATODA Management system\BATODA Management system\obj\Debug\BATODA Management system.pdb
+C:\Users\Admin\source\repos\BATODA Management system\BATODA Management system\obj\Debug\BATODA_Management_system.MainScreenForm.resources
